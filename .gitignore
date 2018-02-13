@@ -20,3 +20,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+test-apache-math3/.settings/org.eclipse.m2e.core.prefs
+test-apache-math3/.project
+test-apache-math3/.settings/org.eclipse.jdt.core.prefs
+test-apache-math3/.classpath
